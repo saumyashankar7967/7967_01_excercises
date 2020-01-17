@@ -7,4 +7,4 @@ Downloading the zip folder Assignment_7967_saumya_batch1 is preferred it has the
 3.Python script
 4.R script
 
-When we will run Python script first few lines consists of downloading the dataframe for which either path can be changed accordingly or in case if we will use the zip folder to run the scripts then no change is required as folder structure will be remained.Same goes for R scripts
+When we will run Python script first few lines consists of loading the dataframe for which either path can be changed accordingly or in case if we will use the zip folder to run the scripts then no change is required as folder structure will be remained.Same goes for R scripts
